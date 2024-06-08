@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - A Pen by Kareem</title>
+  <title>CodePen - A Pen by Karim</title>
   <link rel="stylesheet" href="css/style.css">
 
 </head>
